@@ -1,2 +1,3 @@
 # nft-mint-dapp
 Your task is to create a dApp that allows anyone to mint an NFT from any image of their choice. Your dApp should do the following:  - Have smart contract that will be deployed to Ropsten or Rinkeby testnet. - A simple frontend that allows anyone to upload an image. - The image should be uploaded to ipfs. - The frontend should allow anyone to mint an NFT from their image by simply clicking on a `mint` button. - Your frontend should be hosted on any publicly accessible platforms like heroku.   This task should be submitted by 9:00pm, Tuesday 31st, September, 2021.
+https://docs.google.com/forms/d/135iHKngUCY0hDtyV5-9dRP32LlHGo9dwuRaRbm1kMvA/viewform?ts=612b9c17&edit_requested=true
